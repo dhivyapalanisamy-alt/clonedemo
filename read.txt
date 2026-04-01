@@ -4,11 +4,6 @@ git add
 git commit
 git push
 git pull
-git init
-git branch
-git branch -a
-=========
 git init 
 git branch
 git branch -a
->>>>>>>>> Temporary merge branch 2
