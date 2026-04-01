@@ -7,3 +7,8 @@ git pull
 git init
 git branch
 git branch -a
+=========
+git init 
+git branch
+git branch -a
+>>>>>>>>> Temporary merge branch 2
